@@ -1,0 +1,17 @@
+{
+  "LOGGING": {
+    "LOG_LEVEL": "INFO",
+    "LOG_OUTPUT": "console"
+  },
+  "OCR": {
+    "MODE": "auto"
+  },
+  "DATA": {
+    "NAMES": [
+      "Sarah Kellen",
+      "Steven Bannon",
+      "Leslie Groff",
+      "Donald Trump"
+    ]
+  }
+}
